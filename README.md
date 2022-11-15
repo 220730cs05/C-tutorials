@@ -1,2 +1,2 @@
 # C-tutorials
-This repository contains codes related to Python courses
+This repository contains codes related to C++ courses
